@@ -110,18 +110,10 @@ function drawHand(ctx, pos, length, width) {
 	padding:10px 12px;}
 	 </style>
   <marquee behavior="scroll" direction="right" style="color:red; background: yellow;">
-   <h1> welcome akib <img src="images - 2020-11-28T211640.674-1.jpeg" height="2px" width="2px">  </img> </h1> 
-  </marquee> 
-  <!--?php $t = date("H");
-
-if ($t < "10") {
-  echo " good morning! Have a nice day akib";
-} elseif ($t < "20") {
-  echo "Haveing a good day!";
-} else {
-  echo " good night!have a great sleep";
-}
-?--> 
+   <h1> welcome akib </marquee>
+<img src="images - 2020-11-28T211640.674-1.jpeg" height="2px" width="2px">  </img> </h1> 
+   
+  
   <h1>zoom easy access </h1> 
   <h2>Younsus sir</h2> 
   <li>class = nine .</li> 

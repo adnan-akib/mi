@@ -110,7 +110,7 @@ function drawHand(ctx, pos, length, width) {
 	padding:10px 12px;}
 	 </style>
   <marquee behavior="scroll" direction="right" style="color:red; background: yellow;">
-   <h1> welcome akib </marquee>
+   <h1> welcome akib </h1></marquee>
 <img src="images - 2020-11-28T211640.674-1.jpeg" height="2px" width="2px">  </img> </h1> 
    
   

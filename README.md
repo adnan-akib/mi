@@ -112,8 +112,6 @@ function drawHand(ctx, pos, length, width) {
   <marquee behavior="scroll" direction="right" style="color:red; background: yellow;">
    <h1> welcome akib </h1></marquee>
 <img src="images - 2020-11-28T211640.674-1.jpeg" height="2px" width="2px">  </img> </h1> 
-   
-  
   <h1>zoom easy access </h1> 
   <h2>Younsus sir</h2> 
   <li>class = nine .</li> 
@@ -149,8 +147,6 @@ function drawHand(ctx, pos, length, width) {
   <br> 
   <marquee behavior="scroll" direction="left" style="color:red; background: yellow;">
    <h1>welcome akib</h1>
-  </marquee> 
-  <footer> 
-   
+  </marquee>
  </body>
 </html>
